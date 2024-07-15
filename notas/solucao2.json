@@ -1,0 +1,11 @@
+{
+    "Pedro": {
+        "matematica": 10, 
+        "portugues": 9,
+        "ciencias": 8
+    },
+    "Lara": {
+        "matematica": "10", 
+        "portugues": "9"
+    }
+}
